@@ -5,10 +5,20 @@
 }
 
 .main {
-	padding-left: 200px;
-	padding-right: 200px;
+	padding: 5%;
 	background-color: #5F9EA0;
-	margin-left: 150px;
-	margin-right: 150px;
+	margin-left: 10%;
+	margin-right: 10%;
+}
 
+.login {
+	width: 15%;
+}
+
+.onSameLine {
+	display: inline;
+}
+
+.title {
+	font: sans-serif;
 }
