@@ -1,0 +1,8 @@
+node_modules/
+.env
+.env.*
+*.log
+room-export-*.json
+room-backup-*.json
+exports/
+.DS_Store
